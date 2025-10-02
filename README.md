@@ -1,4 +1,4 @@
-# Smart Memory Management – Sensor Aggregation (Final Version)
+# Memory Management – Sensor Aggregation (Final Version)
 
 ---
 
