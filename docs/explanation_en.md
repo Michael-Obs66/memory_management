@@ -1,4 +1,4 @@
-# Smart Memory Management – Sensor Aggregation (Final Version)
+# Memory Management – Sensor Aggregation (Final Version)
 
 ## Case Study
 An ARM Cortex-M4 MCU reads 32 sensors, calculates the total, and stores each sensor’s 2-bit status. The system must be both **SRAM-efficient** and **fast**.
