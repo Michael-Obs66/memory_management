@@ -1,5 +1,5 @@
 # Memory Management – Sensor Aggregation (Final Version)
-
+> **AI-Augmented Firmware & IoT Security**  
 ---
 
 ## 🇬🇧 English
